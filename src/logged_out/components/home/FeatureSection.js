@@ -36,36 +36,36 @@ const features = [
   },
   {
     color: "#0091EA",
-    headline: "Feature 3",
+    headline: "Weight Management Made Easy",
     text:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et.",
+      "Whether you want to lose weight or get in shape, we have a unique process that will get anyone on the right track towards their goals.",
     icon: <MeassageIcon style={{ fontSize: iconSize }} />,
     mdDelay: "400",
     smDelay: "0"
   },
   {
     color: "#d50000",
-    headline: "Feature 4",
+    headline: "Eat What You Love",
     text:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et.",
+      "If you want to be miserable then sure, you can stop eating your favorite foods. If you want longterm success, we can show you how to keep eating your favorite foods while still making meaningful progress towards your goals.",
     icon: <ComputerIcon style={{ fontSize: iconSize }} />,
     mdDelay: "0",
     smDelay: "200"
   },
   {
     color: "#DD2C00",
-    headline: "Feature 5",
+    headline: "Not a Diet",
     text:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et.",
+      "There is no LivWealth Diet.  That's because diets dont work.  While other programs convince their users to make drastic and sudden changes to their diet, science has          shown that most branded diets are unsustainable.  ",
     icon: <BarChartIcon style={{ fontSize: iconSize }} />,
     mdDelay: "200",
     smDelay: "0"
   },
   {
     color: "#64DD17",
-    headline: "Feature 6",
+    headline: "Stop Worrying About the Scale",
     text:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et.",
+      "At LivWealth, we know that if you follow our program to the best of your ability, you are going to move in the right direction.  Stop weighing yourself every morning, its counterproductive to your weight management goals.",
     icon: <HeadsetMicIcon style={{ fontSize: iconSize }} />,
     mdDelay: "400",
     smDelay: "200"
