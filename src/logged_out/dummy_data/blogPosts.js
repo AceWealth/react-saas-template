@@ -4,8 +4,9 @@ import { Typography } from "@material-ui/core";
 const content = (
   <Fragment>
     <Typography variant="h6" paragraph>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore.
+      The word diet implies a temporary change in the food you eat. Obviously,
+      a temporary change to your food intake is going to give you temporary results.
+      Its really that simple. 
     </Typography>
     <Typography paragraph>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -86,7 +87,7 @@ const content = (
 
 export default [
   {
-    title: "Post 1",
+    title: "Why Diets Don't Work",
     id: 1,
     date: 1576281600,
     src: `${process.env.PUBLIC_URL}/images/logged_out/blogPost1.jpg`,
@@ -95,7 +96,7 @@ export default [
     content: content,
   },
   {
-    title: "Post 2",
+    title: "Weight Loss Simplified",
     id: 2,
     date: 1576391600,
     src: `${process.env.PUBLIC_URL}/images/logged_out/blogPost2.jpg`,
@@ -104,7 +105,7 @@ export default [
     content: content,
   },
   {
-    title: "Post 3",
+    title: "Grocery Shopping Made Easy",
     id: 3,
     date: 1577391600,
     src: `${process.env.PUBLIC_URL}/images/logged_out/blogPost3.jpg`,
@@ -113,7 +114,7 @@ export default [
     content: content,
   },
   {
-    title: "Post 4",
+    title: "Powerful Plates to Power Your Day",
     id: 4,
     date: 1572281600,
     src: `${process.env.PUBLIC_URL}/images/logged_out/blogPost4.jpg`,
@@ -122,7 +123,7 @@ export default [
     content: content,
   },
   {
-    title: "Post 5",
+    title: "Nutrition Labels Demystified",
     id: 5,
     date: 1573281600,
     src: `${process.env.PUBLIC_URL}/images/logged_out/blogPost5.jpg`,
@@ -131,7 +132,7 @@ export default [
     content: content,
   },
   {
-    title: "Post 6",
+    title: "Eating Out Without Stressing Out",
     id: 6,
     date: 1575281600,
     src: `${process.env.PUBLIC_URL}/images/logged_out/blogPost6.jpg`,
