@@ -78,11 +78,11 @@ const styles = theme => ({
 const infos = [
   {
     icon: <PhoneIcon />,
-    description: "+1 555 123456"
+    description: "1-800-LIV-WLTH"
   },
   {
     icon: <MailIcon />,
-    description: "support@company.com"
+    description: "support@livwealth.com"
   }
 ];
 
